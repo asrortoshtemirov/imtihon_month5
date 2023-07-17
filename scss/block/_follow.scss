@@ -1,0 +1,23 @@
+.hero__follow_box{
+  padding-top: 50px;
+  display: flex;
+  width: 800px;
+  justify-content: space-between;
+}
+.hero__follow-name{
+  padding-left: 40px;
+}
+.hero__follow-img{
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+.hero__follow-btn{
+  border: 1px solid grey;
+  padding: 5px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.hero__follow-img_block{
+  display: flex;
+}
